@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BleacherTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BleacherTest</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BleacherTest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BleacherTest:war exploded" />
+    </root>
+  </artifact>
+</component>
